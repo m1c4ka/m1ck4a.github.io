@@ -12,7 +12,7 @@ body {
 /* Position the "No" button absolutely within body */
 #noButton {
     position: absolute;
-    margin-left: 150px;
+    margin-left: 1000px;
     transition: 0.5s;
     /* Smooth movement */
 }
@@ -89,12 +89,6 @@ img {
 
 #yesButton {
     position: absolute;
-    right: 850px;
+    left: 100px;
 }
 
-@media (max-height: 1000px){
-    #yesButton{
-        margin-right: -215px;
-        margin-top: 100px;
-    }
-}

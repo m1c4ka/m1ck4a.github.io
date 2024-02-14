@@ -179,11 +179,11 @@ body {
   text-align: center;
 }
 
-.text:hover span {
+.text:active span {
   display: none;
 }
 
-.text:hover:before {
+.text:active:before {
   content:"Юль, я тебя очень-очень люблю. Ты самый чудесный миловидный котенок! Спасибо тебе за то, что ты есть!";
   font-size:25px;
 

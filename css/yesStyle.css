@@ -62,10 +62,10 @@ body {
     /* optional: adds some space between the buttons */
 }
 
-.btn {
+.site_letter {
     background-color: #FFB6C1;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 186px;
     text-align: center;
     display: inline-block;
     font-size: 16px;
@@ -76,7 +76,7 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.btn:hover {
+.site_letter:hover {
     background-color: #FAF9F6;
 }
 
